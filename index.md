@@ -3,38 +3,30 @@ title: "Pablo Vázquez-Borsetti"
 layout: default
 ---
 
-# ¡Hola! Soy Pablo Vázquez-Borsetti
+# Hello! I'm Pablo Vázquez-Borsetti
 
-Soy biólogo (UBA) y doctor en Biología (Universidad de Barcelona). Tengo amplia experiencia en análisis de datos neurofisiológicos y actualmente trabajo en el Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET).
+I am currently working on neuroinformatics projects using data science tools to address questions about neurodevelopment and neurophysiology.
 
-## 📂 Mis proyectos en GitHub
+## 📂 My GitHub Projects
 
-Aquí puedes encontrar algunos de mis proyectos destacados:
-
-### [Developers Map](https://github.com/Vazquez-Borsetti/developers-map)
-Un mapa interactivo de desarrolladores.
-
-### [Vazquez-Borsetti.github.io](https://github.com/Vazquez-Borsetti/Vazquez-Borsetti.github.io)
-Este es mi sitio web personal.
-
-### [Proof of Concept](https://github.com/Vazquez-Borsetti/proof-of-concept)
-Repositorio de prueba de concepto para distintos análisis.
+Here are some of my neuroinformatics projects:
 
 ### [Emotional Vocabulary Develops Earlier Than General Vocabulary](https://github.com/Vazquez-Borsetti/Emotional-vocabulary-develops-earlier-than-general-vocabulary)
-Código en R para generar ajustes a la función de Gompertz, calcular su derivada y modelar con variables dummy.
+R code to fit the Gompertz function, compute its derivative, and model using dummy variables.
 
 ### [Oddball Paradigm in the Auditory Cortex: An Open Dataset](https://github.com/Vazquez-Borsetti/oddball-paradigm-in-the-auditory-cortex-an-open-dataset)
-Conjunto de datos abiertos de registros neuronales en la corteza auditiva obtenidos con el paradigma oddball.
+An open dataset of neuronal recordings from the auditory cortex using the oddball paradigm.
 
 ### [Mouse and Human Comparative Development](https://github.com/Vazquez-Borsetti/mouse-and-human-comparative-development)
-Análisis comparativo del desarrollo en ratón y humano.
+Comparative analysis of developmental trajectories in mice and humans.
 
 ### [Rat Weight Gain Through Development](https://github.com/Vazquez-Borsetti/rat-weight-gain-through-development)
-Análisis en Python sobre la ganancia de peso en ratas a lo largo del desarrollo.
+Python-based analysis of weight gain in rats throughout development.
 
-### [Rat and Human Comparative Development](https://github.com/Vazquez-Borsetti/rat-and-human-comparative-development)
-Comparación entre el desarrollo de ratas y humanos usando modelos computacionales.
+### [Rat and Human Comparative Development](https://vazquez-borsetti.github.io/rat-and-human-comparative-development)
+An interactive visualization comparing rat and human development.  
+GitHub repository: [here](https://github.com/Vazquez-Borsetti/rat-and-human-comparative-development).
 
----
-
-🔗 También puedes visitar mi página web en [Vazquez-Borsetti.github.io](https://vazquez-borsetti.github.io/)
+### [World Developers Map](https://vazquez-borsetti.github.io/developers-map/)
+An interactive map showing the global distribution of developers.  
+GitHub repository: [here](https://github.com/Vazquez-Borsetti/developers-map).
