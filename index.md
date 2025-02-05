@@ -1,5 +1,5 @@
 ---
-title: "Pablo Vázquez-Borsetti"
+title: "Neuroinformatics"
 layout: default
 ---
 
