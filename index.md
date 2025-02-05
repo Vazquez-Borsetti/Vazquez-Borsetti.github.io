@@ -3,9 +3,7 @@ title: "Neuroinformatics"
 layout: default
 ---
 
-# Hello! I'm Pablo Vázquez-Borsetti
-
-I am currently working on neuroinformatics projects using data science tools to address questions about neurodevelopment and neurophysiology.
+# Hello! I am currently working on neuroinformatics projects using data science tools to address questions about neurodevelopment and neurophysiology.
 
 ## 📂 My GitHub Projects
 
